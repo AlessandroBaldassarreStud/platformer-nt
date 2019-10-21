@@ -12,7 +12,7 @@ public class RobotController : MonoBehaviour
     public float speedMultiplier = 10;
 
     // A modifier for the speed
-    public float jumpMultiplier = 10;
+    public float jumpMultiplier = 11;
 
     // Start is called before the first frame update
     private void Start()
